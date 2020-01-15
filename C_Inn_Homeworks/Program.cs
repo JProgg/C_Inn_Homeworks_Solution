@@ -35,7 +35,7 @@ namespace C_Inn_Homeworks
 
                 double BMI = Math.Round(CalculateBMI(weight, height), 2);
 
-                Console.WriteLine("His BMI is: {0} \n", BMI); 
+                Console.WriteLine("His BMI is: {0} \n", BMI);
             }
 
         }
